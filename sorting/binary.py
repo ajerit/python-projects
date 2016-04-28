@@ -12,7 +12,7 @@ def binarySearch(A, x):
 	start = 0
 	end = len(A)
 	while start < end:
-		mid = (end+(start-end)) / 2
+		mid = end + (start-end) / 2
 		if A[mid] == x:
 			return mid
 		elif A[mid] < x:
