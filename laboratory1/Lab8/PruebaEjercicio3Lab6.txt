@@ -1,0 +1,14 @@
+Entradas correctas:
+
+100, 100 => Salida esperada: [2, 5]
+5000, 2 => Salida esperada: [2]
+1353, 1353 => Salida esperada: [3, 11, 41]
+0, 0 => Salida esperada: []
+
+Entradas erroneas:
+
+30, 40 => Salida esperada: Error en la precondicion
+-10, -10 => Salida esperada: Error en la precondicion
+-10, 20 => Salida esperada: Error en la precondicion
+200, -10 => Salida esperada: Error en la precondicion
+"doce", "cinco" => Salida esperada: Error en la precondicion, deben ser enteros positivos

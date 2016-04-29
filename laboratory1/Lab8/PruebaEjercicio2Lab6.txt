@@ -1,0 +1,12 @@
+Entradas correctas:
+
+2, [9, 10] => Salida esperada: [1,1,2,3,5,8,13,21,34], [1,1,2,3,5,8,13,21,34,55]
+1, [7] => Salida esperada: [1,1,2,3,5,8,13]
+5, [1,2,3,4,5] => Salida esperada: [1], [1,1], [1,1,2], [1,1,2,3], [1,1,2,3,5]
+
+Entradas incorrectas:
+
+0, [] => Salida esperada: Error en la precondicion
+1, [-4] => Salida esperada: Error, los numeros deben ser enteros positivos
+2, ["hola", 5] => Salida esperada: Error, solo acepta enteros positivos
+"uno", [5] => Salida esperada: Error en la precondicion

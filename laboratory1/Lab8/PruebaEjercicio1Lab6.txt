@@ -1,0 +1,14 @@
+Entradas correctas:
+
+5, [1,2,3,4,5] => Salida esperada: "Ascendiente"
+6, [6,4,3,2,1,0] => Salida esperada: "Descendiente"
+9, [1,9,2,8,3,7,4,6,5 => Salida esperada: "Desordenada"
+4, [-1,0,1,2] => Salida esperada: "Ascendiente"
+5, [1,1,1,1,1] => Salida esperada: "Descendiente" o "Ascendiente"
+
+Entradas incorrectas:
+
+0, [] => Salida esperada: Error en la precondicion
+1, [45] => Salida esperad: Error en  la precondicion
+-9, [] => Salida esperada: Error en la precondicion
+3, [1,"error",2] => Salida esperada: Error, solo admite numeros enteros en la secuencia
