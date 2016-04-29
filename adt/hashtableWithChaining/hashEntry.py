@@ -1,5 +1,6 @@
-# Clase para los nodos de la listas de la tabla
+# Node class for list
 # Adolfo Jeritson. 12-10523
+# 2016
 
 class HashEntry(object):
     def __init__(self, key, string):

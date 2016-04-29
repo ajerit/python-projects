@@ -1,7 +1,7 @@
 #
 # Adolfo Jeritson
 # Merge sort implementation
-# 2015
+# 2016
 
 def merge(seq,p,q,r):
     n = q-p+1

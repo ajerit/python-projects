@@ -1,5 +1,8 @@
+#
 # Adolfo Jeritson. 12-10523
-# TAD Conjunto 
+# TAD Conjunto - ADT Set
+# 2016
+#
 
 class ListNode:
     def __init__(self, link, item):

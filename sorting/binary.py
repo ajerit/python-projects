@@ -1,7 +1,7 @@
 #
 # Adolfo Jeritson
 # Binary search implementation
-# 2015
+# 2016
 #
 
 # inputs: A: Array of elements

@@ -1,7 +1,7 @@
 # 
 # Adolfo Jeritson
 # Counting sort implementation. Sorting in linear time
-# 2015
+# 2016
 #
 
 # inputs: A: Array of elements

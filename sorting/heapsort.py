@@ -1,7 +1,7 @@
 #
 # Adolfo Jeritson
 # Heap sort implementation
-# 2015
+# 2016
 #
 
 # Heap operations

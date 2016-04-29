@@ -1,8 +1,9 @@
 # 
 # Adolfo Jeritson
 # Random Quicksort implementation
-# 2015
+# 2016
 #
+
 import random
 
 def rand_partition(seq, p, r):

@@ -1,7 +1,7 @@
 # 
 # Adolfo Jeritson
 # Selection sort implementation
-# 2015
+# 2016
 #
 
 # inputs: seq: Array of elements

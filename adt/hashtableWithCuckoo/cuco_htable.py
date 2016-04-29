@@ -1,4 +1,7 @@
-# Hashing Cuco
+# Adolfo Jeritson
+# Hashtables with Cuckoo 
+# 2016
+#
 
 class CucoEntry(object):
     def __init__(self, key, string):

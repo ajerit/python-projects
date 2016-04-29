@@ -1,5 +1,7 @@
+# Doubly linked list implementation
 # Implementacion de listas doblemente enlazadas
 # Adolfo Jeritson. 12-10523
+# 2016
 
 # Clase que contiene la informacion del elemento (datos satelite)
 from hashEntry import *

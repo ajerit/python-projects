@@ -1,5 +1,7 @@
+# Hashtable implementation with chaining using doubly linked lists
 # Implementacion de Tablas de Hash con encadenamiento
 # Adolfo Jeritson. 12-10523
+# 2016
 
 from dlist import *
 

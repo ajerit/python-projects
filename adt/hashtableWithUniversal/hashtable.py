@@ -1,6 +1,8 @@
-
-# Implementacion de Tablas de Hash con encadenamiento
+# Adolfo Jeritson
+# Hashtable implementation with universal hashing to solve collisions
 # Marzo 2016
+#
+
 import random
 from dlist import *
 

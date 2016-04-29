@@ -1,7 +1,7 @@
 #
 # Adolfo Jeritson
 # Linear searching implementation
-# 2015
+# 2016
 #
 
 # inputs: A: Array of elements

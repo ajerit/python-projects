@@ -1,6 +1,7 @@
 # 
 # Adolfo Jeritson
 # Insertion sort implementation
+# 2016
 #
 
 # inputs: seq: Array of elements
